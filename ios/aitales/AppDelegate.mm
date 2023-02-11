@@ -6,7 +6,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-  self.moduleName = @"shopApp";
+  self.moduleName = @"ai-tales";
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
 
